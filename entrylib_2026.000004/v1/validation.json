@@ -1,0 +1,10 @@
+{
+ "validator": "claimset 0.37.0",
+ "spec": "0.37",
+ "screening": "screening-1",
+ "submission": {
+  "errors": [],
+  "warnings": []
+ },
+ "classifier": "OpenAlex/bert-base-multilingual-cased-finetuned-openalex-topic-classification-title-abstract@7856c776a1d10ae58ee91045af0776807910de96"
+}
